@@ -1,4 +1,4 @@
-<h1>こちらは**Atcoder**のリポジトリです。</h1>
+<h1>こちらは<strong>Atcoder</strong>のリポジトリです。</h1>
 
 アカウントはこちらhttps://atcoder.jp/users/kindun
 こっからどんどんやっていきます
