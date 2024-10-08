@@ -10,6 +10,6 @@ int main(void)
     if(str[length-3]=='s'&&str[length-2]=='a'&&str[length-1]=='n'){
         printf("Yes");
     }else printf("No");
-
+    int a=0;
     return 0;
 }
